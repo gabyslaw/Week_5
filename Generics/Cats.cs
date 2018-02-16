@@ -21,8 +21,7 @@ namespace Generics
 
         public override string ToString()
         {
-            return "My name is " + this.name + " I weigh " + this.weight +
-            " and I know how to purr!\n";
+            return "My name is " + this.name + " I weigh " + this.weight;
         }
 
         public void Attr()
