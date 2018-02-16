@@ -1,0 +1,7 @@
+C:\Repos\learningcsharp\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Repos\learningcsharp\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Repos\learningcsharp\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Repos\learningcsharp\Generics\Generics\bin\Debug\Generics.exe
+C:\Repos\learningcsharp\Generics\Generics\bin\Debug\Generics.pdb
+C:\Repos\learningcsharp\Generics\Generics\obj\Debug\Generics.exe
+C:\Repos\learningcsharp\Generics\Generics\obj\Debug\Generics.pdb
